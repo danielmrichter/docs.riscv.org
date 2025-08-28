@@ -42,3 +42,11 @@ display: none !important;
 .card {
   min-height: 200px;
 }
+
+.stylized-header {
+  background: #000000;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 50, 98, 1) 100%);
+  width: auto;
+  color: #FDB515;
+  text-emphasis: bold;
+}
